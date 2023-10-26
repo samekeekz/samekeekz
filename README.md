@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Tripma project<br>🔥 I’m interested in Fullstack development<br>👯 I’m looking to collaborate on interesting projects<br>🌱 I’m currently learning React, Node.js, Express.js<br>📫 How to reach me telegram @samekeekz
+🔭 I’m currently working on Tripma project<br>🔥 I’m interested in Fullstack development<br>👯 I’m looking to collaborate on interesting projects<br>🌱 I’m currently learning React, Typescript<br>📫 How to reach me telegram @samekeekz
 
 
 # 💻 Tech Stack:
